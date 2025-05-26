@@ -146,7 +146,7 @@ Note:- This is a Sample Project for learning purpose, we have not much considere
   ![image](Admin.png)
 
 - Class Diagram
-  <img width="589" alt="image" src="class_Diagram.png">
+  ![image](class_Diagram.png)
 
 #### "Suggestions and project improvement ideas are welcomed!"
 
